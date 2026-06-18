@@ -1,12 +1,3 @@
--- ============================================================  
--- Azure Nova UI  
--- DX9-based menu with working tabs, toggles, and  
--- RGB sliders for custom themes.  
--- Added Notifications System  
--- Integrated Box ESP  
--- v2.0.48-ui | Fix: scan Players service, never self-target  
--- ============================================================  
-  
 local CFG = {  
     VERSION = "2.0.48-ui",  
     SCRIPT_NAME = "Azure Nova",  
